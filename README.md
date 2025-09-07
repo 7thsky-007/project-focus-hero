@@ -27,10 +27,12 @@ Children get **gamified reminders** and earn rewards for maintaining balance. Pa
 
  
 ### Child Dashboard
-![Child Dashboard](https://raw.githubusercontent.com/username/repo-name/main/Child_Dashboard.png)
+![Child Dashboard](https://raw.githubusercontent.com/7thsky-007/project-focus-hero/main/focus_hero_child_dashboard.png)
+focus_hero_child_dashboard.png
+
 
 ### Parent Dashboard
-![Parent Dashboard](https://raw.githubusercontent.com/username/repo-name/main/Parent_Dashboard.png)
+![Parent Dashboard](https://raw.githubusercontent.com/7thsky-007/project-focus-hero/main/focus_hero_parent_dashboard.png)
 
   
 
