@@ -25,11 +25,14 @@ Children get **gamified reminders** and earn rewards for maintaining balance. Pa
 - Child Dashboard (shows balance between study, play, entertainment)  
 - Parent Dashboard (summarizes screen usage)  
 
-### Child Dashboard Example  
-![Child Dashboard](https://via.placeholder.com/400x250.png?text=Child+Dashboard)  
+ 
+### Child Dashboard
+![Child Dashboard](https://raw.githubusercontent.com/username/repo-name/main/Child_Dashboard.png)
 
-### Parent Dashboard Example  
-![Parent Dashboard](https://via.placeholder.com/400x250.png?text=Parent+Dashboard)  
+### Parent Dashboard
+![Parent Dashboard](https://raw.githubusercontent.com/username/repo-name/main/Parent_Dashboard.png)
+
+  
 
 ## Data sources and AI methods  
 
